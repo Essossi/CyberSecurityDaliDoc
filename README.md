@@ -12,6 +12,8 @@ This repository includes a study plan for cybersecurity, along with resources an
 - Follow the Wireshark Tutorial on guru99: [https://guru99.com/wireshark-tutorial.html](https://www.guru99.com/wireshark-passwords-sniffer.html)
 - Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
 - Read through the Suricata on pfSense guide: [https://doc.pfsense.org/index.php/Suricata](https://docs.netgate.com/pfsense/en/latest/packages/snort/index.html)
+- Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
+- Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 ## Git
 - Complete Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
 - Follow the Git Immersion tutorial: http://gitimmersion.com
