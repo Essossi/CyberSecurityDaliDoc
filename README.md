@@ -21,3 +21,5 @@ This repository includes a study plan for cybersecurity, along with resources an
 # Hacking
 - Try to hack the challenges on Hack the Box: https://hackthebox.com
 - Practice on vulnerable machines on Vulnhub: https://vulnhub.com
+-Ethical Hacking Part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor
+-Ethical Hacking Part 2: https://www.youtube.com/watch?v=sH4JCwjybGs&ab_channel=TheCyberMentor
